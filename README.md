@@ -25,7 +25,7 @@ npm run exec -- -h  # help
 npm run exec -- -p  -o   ## port and origin 
 npm run exec -- -c    ## clean cache
 ```
-## Projet Structure
+## Project Structure
 ```
 /project
   /src
